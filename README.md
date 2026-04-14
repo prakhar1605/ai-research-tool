@@ -15,7 +15,7 @@ Computer Vision
 Sequence Models (RNNs, LSTM)
   
 Generative Models (GANs, VAEs)
-
+ 
 Transformers / NLP
 
 ✍️ Custom paper input (Others option)
