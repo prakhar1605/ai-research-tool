@@ -10,7 +10,7 @@ This project is built for learning purposes, interview revision, and concept cla
 
 📂 Category-based paper selection
  
-Computer Vision
+Computer Vision 
 
 Sequence Models (RNNs, LSTM)
   
