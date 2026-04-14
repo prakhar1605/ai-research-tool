@@ -13,7 +13,7 @@ This project is built for learning purposes, interview revision, and concept cla
 Computer Vision
 
 Sequence Models (RNNs, LSTM)
- 
+  
 Generative Models (GANs, VAEs)
 
 Transformers / NLP
