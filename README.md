@@ -6,7 +6,7 @@ A simple and interactive Streamlit web app to understand famous AI research pape
 
 This project is built for learning purposes, interview revision, and concept clarity in Deep Learning, NLP, and Generative AI.
  
-🚀 Features
+🚀 Features 
 
 📂 Category-based paper selection
  
